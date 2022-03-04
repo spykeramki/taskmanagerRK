@@ -53,3 +53,10 @@
     border-radius: 24px;
     margin-bottom: 8px;
 }
+
+.login-button:hover{
+    cursor: pointer;
+    outline-color: gray;
+    outline-style: solid;
+    outline-width: 2px;
+}
