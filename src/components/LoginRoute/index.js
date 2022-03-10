@@ -1,8 +1,6 @@
-import { useMachine } from "@xstate/react";
 import { useEffect } from "react";
 import { Navigate, useLocation } from "react-router-dom";
 import Cookies from "js-cookie";
-import LoginMachine from "../../machines/LoginMachine/machines.js";
 import "./index.css";
 
 const LoginRoute = () => {
@@ -60,7 +58,7 @@ const LoginRoute = () => {
   const getReturnURL = () => {
     if (isDevelopmentEnvironment()) {
       /* ADD THIS URL to your Application return URIs to redirect after authentication success OR failure */
-      return "http://localhost:3004/login";
+      return "http://localhost:3000/login";
     }
     /* Change this returnURL accordingly before publishing your project and ADD THIS URL to your Application Return URIs to redirect after authentication success OR failure */
     return "https://taskManager.ccbp.tech/login";

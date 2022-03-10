@@ -1,7 +1,10 @@
 import './index.css'
+import Header from '../Header'
 
 const HomeRoute =() => {
-    return <h1>Home</h1>
+    return (
+        <Header />
+    )
 }
 
 export default HomeRoute
