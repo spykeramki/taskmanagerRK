@@ -1,4 +1,6 @@
 import "./index.css";
+import { useContext } from "react";
+import HomeContext from '../../context/HomeContext'
 import HeaderSearchField from "../HeaderSearchField";
 import HeaderOrganizationsPopupButton from '../HeaderOrganizationsPopupButton'
 import HeaderHomeButton from '../HeaderHomeButton'
@@ -6,6 +8,8 @@ import HeaderBoardsPopupButton from '../HeaderBoardsPopupButton'
 import HeaderLogoutButton from "../HeaderLogoutButton";
 
 const Header = () => {
+
+    const homeContextValue = useContext(HomeContext);
 
     const renderTaskManagerLogo = () => (
         <img

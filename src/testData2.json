@@ -1,0 +1,131 @@
+[
+  {
+    "id": "5d1c757d6a9a135fb2d8e291",
+    "name": "Company Overview",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "dateClosed": null,
+    "idOrganization": "60d60b1af1af168431a82e66",
+    "idEnterprise": null,
+    "limits": null,
+    "pinned": null,
+    "starred": false,
+    "url": "https://trello.com/b/JW85YJpM/company-overview",
+    "prefs": {
+      "permissionLevel": "private",
+      "hideVotes": false,
+      "voting": "disabled",
+      "comments": "members",
+      "invitations": "members",
+      "selfJoin": false,
+      "cardCovers": true,
+      "isTemplate": false,
+      "cardAging": "regular",
+      "calendarFeedEnabled": false,
+      "hiddenPluginBoardButtons": [],
+      "background": "5a84619a0163aab99a3b37d0",
+      "backgroundColor": null,
+      "backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1409x2048/42b8378878efac752e35e81f6828e874/photo-1486983493968-6550b6afbe96",
+      "backgroundImageScaled": [
+        {
+          "width": 140,
+          "height": 100,
+          "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/140x100/6bb9f46853db5f6d4a78a8b44440c7d7/photo-1486983493968-6550b6afbe96.jpg"
+        },
+        {
+          "width": 256,
+          "height": 192,
+          "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/256x192/c25c48c9b6ec7f8584e47b490a67014e/photo-1486983493968-6550b6afbe96.jpg"
+        },
+        {
+          "width": 480,
+          "height": 480,
+          "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/480x480/3541656412987c748184750d1cac9326/photo-1486983493968-6550b6afbe96.jpg"
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/960x960/d440e62c56918175cc16a358dbcf0ab2/photo-1486983493968-6550b6afbe96.jpg"
+        },
+        {
+          "width": 1024,
+          "height": 1024,
+          "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1024x1024/dc08200e90bb929c435ac9904ee1bda6/photo-1486983493968-6550b6afbe96.jpg"
+        },
+        {
+          "width": 1280,
+          "height": 1280,
+          "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x1280/9ecd8b80b400b07bf532f5fc077dd72e/photo-1486983493968-6550b6afbe96.jpg"
+        },
+        {
+          "width": 1920,
+          "height": 1920,
+          "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1920x1920/acbcd45b27587e5d51d175f2b78ef9c5/photo-1486983493968-6550b6afbe96.jpg"
+        },
+        {
+          "width": 1409,
+          "height": 2048,
+          "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1409x2048/42b8378878efac752e35e81f6828e874/photo-1486983493968-6550b6afbe96"
+        },
+        {
+          "width": 2560,
+          "height": 1600,
+          "url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2560x1600/66896c7cd1835145d1536fe43b4d7b06/photo-1486983493968-6550b6afbe96.jpg"
+        }
+      ],
+      "backgroundTile": false,
+      "backgroundBrightness": "dark",
+      "backgroundBottomColor": "#1f2225",
+      "backgroundTopColor": "#f4f4f4",
+      "canBePublic": true,
+      "canBeEnterprise": true,
+      "canBeOrg": true,
+      "canBePrivate": true,
+      "canInvite": true
+    },
+    "shortLink": "JW85YJpM",
+    "subscribed": false,
+    "labelNames": {
+      "green": "",
+      "yellow": "",
+      "orange": "",
+      "red": "",
+      "purple": "",
+      "blue": "",
+      "sky": "",
+      "lime": "",
+      "pink": "",
+      "black": ""
+    },
+    "powerUps": [],
+    "dateLastActivity": "2019-07-03T09:29:33.901Z",
+    "dateLastView": "2022-03-04T15:23:16.961Z",
+    "shortUrl": "https://trello.com/b/JW85YJpM",
+    "idTags": [],
+    "datePluginDisable": null,
+    "creationMethod": "assisted",
+    "ixUpdate": null,
+    "templateGallery": null,
+    "enterpriseOwned": false,
+    "idBoardSource": null,
+    "premiumFeatures": [
+      "additionalBoardBackgrounds",
+      "additionalStickers",
+      "customBoardBackgrounds",
+      "customEmoji",
+      "customStickers",
+      "plugins"
+    ],
+    "idMemberCreator": null,
+    "memberships": [
+      {
+        "idMember": "5d1c7567e5bb9f4936c671a4",
+        "memberType": "admin",
+        "unconfirmed": false,
+        "deactivated": false,
+        "id": "5d1c757d6a9a135fb2d8e2f7"
+      }
+    ]
+  }
+]

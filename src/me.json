@@ -1,0 +1,249 @@
+{
+  "id": "5d1c7567e5bb9f4936c671a4",
+  "aaId": "70121:87b3235d-51b0-4f11-b772-1a64a1d68f85",
+  "activityBlocked": false,
+  "avatarHash": "2f5c9c3c33dbd3776e3634e1884da725",
+  "avatarUrl": "https://trello-members.s3.amazonaws.com/5d1c7567e5bb9f4936c671a4/2f5c9c3c33dbd3776e3634e1884da725",
+  "bio": "",
+  "bioData": null,
+  "confirmed": true,
+  "fullName": "RAMA KRISHNA OGURI",
+  "idEnterprise": null,
+  "idEnterprisesDeactivated": [],
+  "idMemberReferrer": null,
+  "idPremOrgsAdmin": [],
+  "initials": "RO",
+  "memberType": "normal",
+  "nonPublic": {},
+  "nonPublicAvailable": true,
+  "products": [],
+  "url": "https://trello.com/ramakrishnaoguri1",
+  "username": "ramakrishnaoguri1",
+  "status": "disconnected",
+  "aaBlockSyncUntil": null,
+  "aaEmail": "ramakrishna.oguri@gmail.com",
+  "aaEnrolledDate": null,
+  "avatarSource": "none",
+  "credentialsRemovedCount": 0,
+  "domainClaimed": null,
+  "email": "ramakrishna.oguri@gmail.com",
+  "goldSunsetFreeTrialIdOrganization": null,
+  "gravatarHash": "7235472ad1e409fd2fe4a8e8908569f6",
+  "idBoards": ["5d1c757d6a9a135fb2d8e291", "5d1c733ff22455154d18ae1b"],
+  "idOrganizations": ["60d60b1af1af168431a82e66", "623360087929cc831e73c488"],
+  "idEnterprisesAdmin": [],
+  "limits": {
+    "boards": {
+      "totalPerMember": { "status": "ok", "disableAt": 4500, "warnAt": 3600 }
+    },
+    "orgs": {
+      "totalPerMember": { "status": "ok", "disableAt": 850, "warnAt": 680 }
+    }
+  },
+  "loginTypes": ["google", "atlassian", "password"],
+  "marketingOptIn": { "optedIn": true, "date": "2019-07-03T09:29:56.587Z" },
+  "messagesDismissed": [
+    {
+      "name": "team-join-cta-banner-5d1c72ae9988e18c61ea2634",
+      "count": 2,
+      "lastDismissed": "2019-07-03T09:30:00.325Z",
+      "_id": "5d1c75971b53fa7b981cabfb"
+    },
+    {
+      "name": "ad-security-features",
+      "count": 1,
+      "lastDismissed": "2019-07-03T09:30:52.041Z",
+      "_id": "5d1c75cc3c9d4a36472fd4c6"
+    }
+  ],
+  "oneTimeMessagesDismissed": [
+    "close-menu-of-first-board",
+    "simplified-view-full-view",
+    "ad-home-team-nav-tab",
+    "nusku.views-switcher-upsell-default-open",
+    "teamify-post-migration"
+  ],
+  "prefs": {
+    "privacy": { "fullName": "public", "avatar": "public" },
+    "sendSummaries": true,
+    "minutesBetweenSummaries": 60,
+    "minutesBeforeDeadlineToNotify": 1440,
+    "colorBlind": false,
+    "locale": "en-US"
+  },
+  "trophies": [],
+  "uploadedAvatarHash": null,
+  "uploadedAvatarUrl": null,
+  "premiumFeatures": [
+    "additionalBoardBackgrounds",
+    "additionalStickers",
+    "customBoardBackgrounds",
+    "customEmoji",
+    "customStickers",
+    "plugins"
+  ],
+  "isAaMastered": true,
+  "ixUpdate": "62",
+  "organizations": [
+    {
+      "id": "623360087929cc831e73c488",
+      "creationMethod": null,
+      "name": "test142828342",
+      "credits": [],
+      "displayName": "Test1",
+      "desc": "",
+      "descData": { "emoji": {} },
+      "domain": null,
+      "idBoards": [],
+      "idEnterprise": null,
+      "idMemberCreator": "5d1c7567e5bb9f4936c671a4",
+      "invited": false,
+      "invitations": [],
+      "limits": {
+        "orgs": {
+          "totalMembersPerOrg": {
+            "status": "ok",
+            "disableAt": 4000,
+            "warnAt": 3200
+          },
+          "freeBoardsPerOrg": { "status": "ok", "disableAt": 10, "warnAt": 3 }
+        }
+      },
+      "memberships": [
+        {
+          "idMember": "5d1c7567e5bb9f4936c671a4",
+          "memberType": "admin",
+          "unconfirmed": false,
+          "deactivated": false,
+          "id": "623360087929cc831e73c48a"
+        }
+      ],
+      "prefs": {
+        "permissionLevel": "private",
+        "orgInviteRestrict": [],
+        "boardInviteRestrict": "any",
+        "externalMembersDisabled": false,
+        "associatedDomain": null,
+        "googleAppsVersion": 1,
+        "boardVisibilityRestrict": {
+          "private": "org",
+          "org": "org",
+          "enterprise": "org",
+          "public": "org"
+        },
+        "boardDeleteRestrict": {
+          "private": "org",
+          "org": "org",
+          "enterprise": "org",
+          "public": "org"
+        },
+        "attachmentRestrictions": null
+      },
+      "powerUps": [],
+      "products": [],
+      "pendingProduct": null,
+      "billableMemberCount": 1,
+      "activeBillableMemberCount": 1,
+      "billableCollaboratorCount": 0,
+      "url": "https://trello.com/test142828342",
+      "website": null,
+      "logoHash": null,
+      "logoUrl": null,
+      "premiumFeatures": [
+        "additionalBoardBackgrounds",
+        "additionalStickers",
+        "customBoardBackgrounds",
+        "customEmoji",
+        "customStickers",
+        "plugins"
+      ],
+      "promotions": [],
+      "enterpriseJoinRequest": {},
+      "standardVariation": null,
+      "availableLicenseCount": null,
+      "maximumLicenseCount": null,
+      "ixUpdate": "2",
+      "teamType": "operations"
+    },
+    {
+      "id": "60d60b1af1af168431a82e66",
+      "creationMethod": "teamify-auto",
+      "name": "userworkspace01667648",
+      "credits": [],
+      "displayName": "Trello workspace",
+      "desc": "",
+      "descData": { "emoji": {} },
+      "domain": null,
+      "idBoards": ["5d1c757d6a9a135fb2d8e291"],
+      "idEnterprise": null,
+      "idMemberCreator": "5d1c7567e5bb9f4936c671a4",
+      "invited": false,
+      "invitations": [],
+      "limits": {
+        "orgs": {
+          "totalMembersPerOrg": {
+            "status": "ok",
+            "disableAt": 4000,
+            "warnAt": 3200
+          },
+          "freeBoardsPerOrg": { "status": "ok", "disableAt": 10, "warnAt": 3 }
+        }
+      },
+      "memberships": [
+        {
+          "idMember": "5d1c7567e5bb9f4936c671a4",
+          "memberType": "admin",
+          "unconfirmed": false,
+          "deactivated": false,
+          "id": "60d60b1af1af168431a82e67"
+        }
+      ],
+      "prefs": {
+        "permissionLevel": "private",
+        "orgInviteRestrict": [],
+        "boardInviteRestrict": "any",
+        "externalMembersDisabled": false,
+        "associatedDomain": null,
+        "googleAppsVersion": 1,
+        "boardVisibilityRestrict": {
+          "private": "org",
+          "org": "org",
+          "enterprise": "org",
+          "public": "org"
+        },
+        "boardDeleteRestrict": {
+          "private": "org",
+          "org": "org",
+          "enterprise": "org",
+          "public": "org"
+        },
+        "attachmentRestrictions": null
+      },
+      "powerUps": [],
+      "products": [],
+      "pendingProduct": null,
+      "billableMemberCount": 1,
+      "activeBillableMemberCount": 1,
+      "billableCollaboratorCount": 0,
+      "url": "https://trello.com/userworkspace01667648",
+      "website": null,
+      "logoHash": null,
+      "logoUrl": null,
+      "premiumFeatures": [
+        "additionalBoardBackgrounds",
+        "additionalStickers",
+        "customBoardBackgrounds",
+        "customEmoji",
+        "customStickers",
+        "plugins"
+      ],
+      "promotions": [],
+      "enterpriseJoinRequest": {},
+      "standardVariation": null,
+      "availableLicenseCount": null,
+      "maximumLicenseCount": null,
+      "ixUpdate": "2",
+      "teamType": null
+    }
+  ]
+}
